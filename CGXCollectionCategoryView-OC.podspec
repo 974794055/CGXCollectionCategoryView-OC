@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "CGXCollectionCategoryView-OC"    #存储库名称
-s.version      = "1.3.0"      #版本号，与tag值一致
+s.version      = "1.4.0"      #版本号，与tag值一致
 s.summary      = "UICollectionView封装列表库"  #简介
 s.description  = "常用UICollectionView控件列表封装,瀑布流布局使用,多行展示"  #描述
 s.homepage     = "https://github.com/974794055/CGXCollectionCategoryView-OC"      #项目主页，不是git地址

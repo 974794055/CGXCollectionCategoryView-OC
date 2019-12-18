@@ -17,6 +17,7 @@ pod ：CGXCollectionCategoryView-OC
 */
 
 
+
 #ifndef CGXCollectionView_h
 #define CGXCollectionView_h
 
