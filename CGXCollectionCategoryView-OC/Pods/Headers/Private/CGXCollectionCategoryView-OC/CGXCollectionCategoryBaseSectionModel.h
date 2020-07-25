@@ -1,0 +1,1 @@
+../../../../../CGXCollectionCategoryView/BaseView/CGXCollectionCategoryBaseSectionModel.h

@@ -1,0 +1,1 @@
+../../../../../CGXCollectionCategoryView/GeneralView/CGXCollectionCategoryGeneralFooterModel.h

@@ -1,6 +1,8 @@
 platform:ios,'8.0'
 target "CGXCollectionCategoryView-OC" do
 
+  pod 'CGXCollectionCategoryView-OC', :path => '../'
+  
     pod 'MJRefresh'
     pod 'SDWebImage'
     pod 'SDCycleScrollView'

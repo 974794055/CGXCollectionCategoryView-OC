@@ -1,0 +1,1 @@
+../../../../../CGXCollectionCategoryView/GeneralView/CGXCollectionCategoryGeneralView.h

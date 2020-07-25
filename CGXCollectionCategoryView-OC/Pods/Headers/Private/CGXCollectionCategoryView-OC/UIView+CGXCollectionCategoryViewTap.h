@@ -1,0 +1,1 @@
+../../../../../CGXCollectionCategoryView/Common/UIView+CGXCollectionCategoryViewTap.h

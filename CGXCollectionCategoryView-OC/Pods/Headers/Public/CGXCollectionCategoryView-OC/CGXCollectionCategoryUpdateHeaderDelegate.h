@@ -1,0 +1,1 @@
+../../../../../CGXCollectionCategoryView/Delegate/CGXCollectionCategoryUpdateHeaderDelegate.h
